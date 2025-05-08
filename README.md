@@ -43,5 +43,5 @@ To run this project locally, clone the repository and install the required depen
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/diabetes-prediction.git
+git clone https://github.com/AbdullahRao25/diabetes-prediction.git
 cd diabetes-prediction
